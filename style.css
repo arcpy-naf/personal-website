@@ -1,8 +1,14 @@
-body{margin:0;
+body{margin:10px;
     font-family: 'Poppins', sans-serif;
 }
+h2{
+    font-weight: 300;
+}
 h1{
-    font-size: 50px;
+    font-size: 40px;
+}
+h1 , h2{
+    margin: 0;
 }
 .name-color{
     color:crimson;
@@ -23,7 +29,7 @@ header-banner{
     background-size: 100%;
 }
 section{
-    height:500px;
+    height:300px;
     padding-bottom: 150px;
 }
 .link-button{
@@ -43,13 +49,18 @@ section{
     background-size:100%;
 }
 .one-third-width{
-    width:25%;
+    width:24%;
     float: left;
-    padding:0;
-    margin-left:8%;
+    padding:2%;
+    margin-left:5%;
+}
+.work-border{
+    margin-left: 20%;
 }
 .one-third-width img{
-    width:80%;
+    width:100%;
+    border: 1px solid;
+    cursor: pointer;
 }
 #text-work{
     text-align: center;
@@ -64,6 +75,7 @@ section{
     text-align: center;
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
+    background-size: 100%;
 
 }
 .box{
@@ -73,6 +85,7 @@ section{
     margin:0 auto;
     background-color: crimson;
     color:white;
+    border: radius 45;
 }
 #text-footer{
     text-align: center;
