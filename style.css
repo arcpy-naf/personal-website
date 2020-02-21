@@ -1,0 +1,79 @@
+body{margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-color{
+    color:crimson;
+}
+.half-width{
+    width:35%;
+    float: left;
+    margin-left:10%;
+    padding:2%;
+}
+.half-width img{
+    width: 100%;
+    text-align: center;
+}
+header-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height:500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(45deg,crimson, tomato);
+    padding:10px 20px;
+    border-radius:5px;
+    color:white;
+    font-weight:700;
+}
+.text{
+    text-align: justify;
+}
+.biography-banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.one-third-width{
+    width:25%;
+    float: left;
+    padding:0;
+    margin-left:8%;
+}
+.one-third-width img{
+    width:80%;
+}
+#text-work{
+    text-align: center;
+}
+.latest-work-banner{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+}
+.footer-banner{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+
+}
+.box{
+    height: 100px;
+    width: 300px;
+    border:1px solid;
+    margin:0 auto;
+    background-color: crimson;
+    color:white;
+}
+#text-footer{
+    text-align: center;
+}
