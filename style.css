@@ -73,6 +73,7 @@ section{
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
+    margin-bottom: -100px;
 }
 .footer-banner{
     text-align: center;
