@@ -65,6 +65,8 @@ section{
 #text-work{
     text-align: center;
     font-weight: 300;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 .latest-work-banner{
     background-image: url(images/latest-work-bg.png);
