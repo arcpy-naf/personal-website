@@ -49,13 +49,10 @@ section{
     background-size:100%;
 }
 .one-third-width{
-    width:24%;
+    width:25%;
     float: left;
-    padding:2%;
+    padding:1%;
     margin-left:5%;
-}
-.work-border{
-    margin-left: 20%;
 }
 .one-third-width img{
     width:100%;
