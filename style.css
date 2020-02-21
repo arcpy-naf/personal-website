@@ -51,7 +51,7 @@ section{
 .one-third-width{
     width:20%;
     float: left;
-    padding:2%;
+    padding:1%;
     margin-left:8%;
 }
 .one-third-width img{
@@ -73,7 +73,6 @@ section{
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
     background-size: 100%;
-
 }
 .box{
     height: 100px;
