@@ -48,14 +48,14 @@ section{
     background-repeat: no-repeat;
     background-size:100%;
 }
-.one-third-width{
-    width:24%;
-    float: left;
-    padding:2%;
-    margin-left:5%;
+.latest-area{
+    margin-left: 10%;
 }
-.work-border{
-    margin-left: 20%;
+.one-third-width{
+    width:25%;
+    float: left;
+    padding:1%;
+    margin-left:4%;
 }
 .one-third-width img{
     width:100%;
@@ -64,6 +64,7 @@ section{
 }
 #text-work{
     text-align: center;
+    font-weight: 300;
 }
 .latest-work-banner{
     background-image: url(images/latest-work-bg.png);
@@ -76,7 +77,6 @@ section{
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
     background-size: 100%;
-
 }
 .box{
     height: 100px;
