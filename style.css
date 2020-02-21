@@ -71,7 +71,6 @@ section{
 .latest-work-banner{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
-    background-position: left;
     background-size: cover;
     margin-bottom: -100px;
 }
